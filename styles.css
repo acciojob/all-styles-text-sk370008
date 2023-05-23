@@ -3,11 +3,11 @@
 div {
   width: 200px;
   background-color: purple;
+  border-left: 5px solid green;
+  padding: 10px;
 }
 
 h1 {
-  border-left: 5px solid green;
-  padding: 10px;
   font-size: 20px;
   color: white;
   text-decoration: underline;
